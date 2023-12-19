@@ -4,7 +4,7 @@ function About() {
   return (
     <div className='max-w-6xl mx-auto space-y-4'>
       <h1 className='text-2xl font-medium text-amber-600'>About</h1>
-      <p> Welcom to our movie database website! We are passionate movie enthusiasts who have come together to
+      <p> Welcome to our movie database website! We are passionate movie enthusiasts who have come together to
         create a one-stop destination for all Your movie-related needs
       </p>
       <p>Our website is designed to provide you with a comprehensive database of movies from all around the world,along
